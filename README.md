@@ -1,0 +1,2 @@
+# -Efficient-Sentiment-Analysis-of-Customer-Reviews-Using-LoRA-Fine-Tuned-GPT-2
+This project leverages LoRA (Low-Rank Adaptation) to efficiently fine-tune GPT-2 on the Amazon Reviews dataset for sentiment analysis. By classifying customer reviews as positive or negative, it enables businesses to automate feedback analysis, enhancing decision-making and customer satisfaction with minimal computational resources.
